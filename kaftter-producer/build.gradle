@@ -21,7 +21,7 @@ dependencies {
             "org.slf4j:slf4j-simple:1.7.32",
             "com.twitter:hbc-core:2.2.0",
             "commons-logging:commons-logging:1.2",
-            "com.fasterxml.jackson.module:jackson-module-kotlin:2.13.1",
+            "com.fasterxml.jackson.module:jackson-module-kotlin:2.13.2",
             "org.apache.avro:avro:1.11.0",
             "io.confluent:kafka-avro-serializer:7.0.1")
 }
