@@ -31,7 +31,7 @@ dependencies {
             "com.squareup.okhttp3:okhttp:4.9.3",
             "io.github.resilience4j:resilience4j-spring-boot2:1.7.1",
             "com.fasterxml.jackson.module:jackson-module-kotlin",
-            "org.apache.kafka:kafka-clients:7.0.1-ce",
+            "org.apache.kafka:kafka-clients:7.1.0-ce",
             "org.apache.avro:avro:1.11.0",
             "io.confluent:kafka-avro-serializer:7.0.1")
     compileOnly("org.projectlombok:lombok:1.18.22")
